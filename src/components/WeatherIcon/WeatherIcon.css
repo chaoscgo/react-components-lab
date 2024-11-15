@@ -1,0 +1,5 @@
+.weather-icon {
+    display: inline-block;
+    justify-content: space-between;
+    padding: 10px 45px 5px 45px;
+}
